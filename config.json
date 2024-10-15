@@ -1,0 +1,15 @@
+{
+    "mqtt" : {
+        "host" : "api.stage.neo.saint-gobain.com",
+        "port" : 443,
+        "username" : "admin",
+        "password" : "public",
+        "keep_alive" : 60,
+        "edge_id" : "sda_mir",
+        "connection_type" : "websocket",
+        "websocket_path" : "/mqtt",
+        "tls_enable" : false ,
+        "tls_verfiy_disable" : false,
+        "ca_cert_path" : ""
+    }
+}
